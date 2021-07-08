@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import DumbBoard from "./dumbBoard"
+import DumbBoard from "./dumbBoard";
 import './index.css';
 import * as chess_api from './chess_api.js'; 
 import * as chess_utils from './chess_utils.js'; 
